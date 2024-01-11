@@ -84,6 +84,7 @@
   font-family: Lato, sans-serif;
   color: #888;
   width: 318px;
+  flex-grow: 1;
 }
 .task-input:focus {
   color: #333;
